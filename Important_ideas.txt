@@ -1,0 +1,7 @@
+1. The root director for GitBash is NOT C://. For reasons unknown to all 
+of us, it is C:\Program Files\Git
+
+2. We can still access things that are under the C directory; it's a bit 
+magical
+
+3. The "^" below in the help things, actually mean "control" 
