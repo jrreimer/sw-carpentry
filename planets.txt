@@ -1,4 +1,2 @@
-More comments. This is a new file about planets. Isn't this fun. 
-
-Planets are cool. Maybe one day people will have to live on different 
-planets than earth. 
+Here is a file about planets.
+Deleted it all. 
